@@ -38,7 +38,7 @@ The project was executed in two main phases: a comprehensive Exploratory Data An
 EDA was performed to uncover insights into sales patterns, pricing strategies, consumer behavior, and market composition within the plant-based meat sector. Key analyses included:
 * **Market Research Integration:** Insights from broader market research were incorporated, highlighting a projected market size of $4.8B by 2029, with primary consumers aged 18-44, and the growing importance of the flexitarian segment as a target market.
 * **Regional Sales Analysis:** In-depth analysis was conducted to identify high-performing and underperforming regions, pinpointing key geographies with the highest growth potential and competitive opportunities.
-* **Price Point Analysis:** Sales performance was rigorously analyzed across different price ranges (e.g., the competitive $7-9 and premium $13-16 brackets) to understand consumer price sensitivity and optimal pricing strategies.
+* **Price Point Analysis:** Sales performance was rigorously analyzed across different price ranges (e.g., the competitive $xx-xx and premium $xx-xx brackets) to understand consumer price sensitivity and optimal pricing strategies.
 * **Product & Flavor Insights:** Investigation into which product forms (e.g., patties, crumbles) and specific flavors were most significant in driving `Dollar_Sales` and `Unit_Sales`.
 * **Competitive Landscape:** Analysis of competitors' market share, pricing strategies, and product portfolios to identify Gardein's strengths and weaknesses.
 
@@ -67,10 +67,10 @@ The comprehensive analysis and predictive modeling yielded several actionable, d
 <img src="assets/key_recommendations_summary.png" width="80%" alt="Summary of Key Recommendations">
 </p>
 
-1.  **Prioritize Product Form Innovation:** Product form (e.g., patties, sausages) was found to be a statistically significant driver of sales, often more impactful than specific flavors within certain price brackets. Investment in developing and promoting diverse, high-quality product forms is critical.
+1.  **Prioritize Product Form Innovation:** Product form was found to be a statistically significant driver of sales, often more impactful than specific flavors within certain price brackets. Investment in developing and promoting diverse, high-quality product forms is critical.
 2.  **Focus on Key Growth Regions:** The **North-East, California, Mid-South, and Great Lakes** regions were identified as high-priority areas with strong market potential and favorable competitive dynamics. Tailored merchandising, localized promotions, and distribution optimization in these regions are likely to yield significant sales growth.
-3.  **New Product Opportunity: Plant-Based Bacon:** A significant market gap and high-growth opportunity were identified in the **plant-based bacon** category. The vegan bacon market is projected to grow at a 6% CAGR, and Morning Star's existing bacon product is already ranked 6th in dollar sales, indicating strong, untapped consumer demand. This represents a prime target for Gardein innovation.
-4.  **Strategic Price Positioning:** Gardein should strategically align its pricing and unit sizing for maximum competitiveness. The analysis suggests an **average price of $3.75** and an **average unit size of 5.5 Oz** as a competitive sweet spot that balances affordability with perceived value.
+3.  **New Product Opportunity: Plant-Based Bacon:** A significant market gap and high-growth opportunity were identified in the **plant-based bacon** category. The vegan bacon market is projected to grow at a 6% CAGR, and Morning Star's existing bacon product is already ranked xxth in dollar sales, indicating strong, untapped consumer demand. This represents a prime target for Gardein innovation.
+4.  **Strategic Price Positioning:** Gardein should strategically align its pricing and unit sizing for maximum competitiveness. The analysis suggests an **average price of $x.xx** and an **average unit size of x Oz** as a competitive sweet spot that balances affordability with perceived value.
 5.  **Enhance Flavor & Texture Profiles:** While form is critical, developing flavor and texture profiles that closely mimic traditional meat is crucial for broader consumer adoption, particularly for flexitarians, and for driving repeat purchases. Continuous R&D in this area will reinforce brand loyalty.
 
 <p align="center">
