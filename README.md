@@ -9,7 +9,7 @@
 
 This repository contains an end-to-end predictive analytics project conducted for the Conagra Data Science Competition. The project analyzes the plant-based meat substitutes market to identify growth opportunities, model sales drivers, and provide data-driven strategies for Conagra's 'Gardein' brand.
 
-## 🎯 Project Overview & Business Problem
+##  Project Overview & Business Problem
 
 The plant-based meat market is experiencing explosive growth, driven by health-conscious consumers, environmental concerns, and a rise in flexitarian diets. Conagra, with its 'Gardein' brand, is a key player but faces intense competition from brands like MorningStar Farms, Beyond Meat, and Impossible Foods.
 
@@ -18,7 +18,7 @@ This project aims to analyze proprietary sales and market data to unlock future 
 * **Model Sales Drivers:** Use predictive modeling (Ordinary Least Squares regression) to understand and quantify the key factors that influence `Dollar_Sales`, focusing on price, product form, and geographical variations.
 * **Provide Strategic Recommendations:** Deliver actionable, data-driven strategies for pricing optimization, product innovation, and targeted marketing focus to enhance Gardein's market share and profitability.
 
-## 📊 Dataset
+##  Dataset
 
 The primary dataset was a proprietary `df_merged2.pickle` file provided for the Conagra Data Science Competition. This comprehensive dataset contained detailed sales and product information across various brands and geographies. Key features included:
 * **`Geography`**: The sales region (e.g., North-East, California, Mid-South, Great Lakes, South-East).
@@ -30,7 +30,7 @@ The primary dataset was a proprietary `df_merged2.pickle` file provided for the 
 
 The analysis was specifically focused on the top 5 brands by sales volume to ensure relevance and impact for Conagra's competitive landscape.
 
-## ⚙️ Methodology
+##  Methodology
 
 The project was executed in two main phases: a comprehensive Exploratory Data Analysis (EDA) to uncover market insights, followed by Predictive Modeling to quantify the impact of key variables on sales.
 
@@ -59,7 +59,7 @@ This robust statistical model allowed us to:
   * Quantify how sales are influenced by individual `Form` types and `Geography` regions.
   * Analyze the crucial **interaction effects** between `Price_per_Unit`, `Form`, and `Geography` to provide highly specific and nuanced recommendations, such as optimal pricing for a specific product form in a particular region.
 
-## 📈 Key Findings & Strategic Recommendations
+##  Key Findings & Strategic Recommendations
 
 The comprehensive analysis and predictive modeling yielded several actionable, data-driven insights and strategic recommendations for Conagra's 'Gardein' brand to capitalize on market opportunities and enhance its competitive position.
 
@@ -78,11 +78,11 @@ The comprehensive analysis and predictive modeling yielded several actionable, d
 <img src="assets/price_range_analysis.png" width="45%" alt="Price Point Analysis">
 </p>
 
-## 📌 Conclusion
+##  Conclusion
 
 This project successfully transformed raw, proprietary sales data into a strategic growth blueprint for Conagra's 'Gardein' brand within the dynamic meat substitute market. By leveraging robust predictive analytics (OLS regression), we not only quantified the key drivers of sales but also identified a clear, actionable path forward. The comprehensive recommendations, encompassing product innovation (specifically plant-based bacon), targeted regional prioritization, and data-backed strategic pricing, empower Conagra to capture a larger share of this rapidly expanding and lucrative market segment.
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
   * **Python:** The core programming language for the entire project (version 3.9+).
   * **Pandas:** Essential for high-performance data manipulation, cleaning, filtering, and aggregation of large datasets.
@@ -92,7 +92,7 @@ This project successfully transformed raw, proprietary sales data into a strateg
   * **Jupyter Notebook:** Served as the central environment for interactive data analysis, iterative model development, and presenting findings in a reproducible format.
   * **Microsoft Office (Word/PowerPoint):** Used for compiling the detailed final business report and delivering the strategic presentation.
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1.  Clone this repository:
     ```sh
