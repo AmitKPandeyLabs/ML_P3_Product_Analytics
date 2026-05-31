@@ -117,7 +117,3 @@ This project successfully transformed raw, proprietary sales data into a strateg
 
 This project was completed as part of a data science competition. The analysis and code are intended for portfolio and demonstration purposes only. Please note that the dataset utilized (`df_merged2.pickle`) is proprietary to Conagra Brands and is not distributed with this repository.
 
-## ✉️ Contact
-
-  * **Amit K. Pandey**
-  * **LinkedIn:** [Your LinkedIn Profile URL] (Add your actual LinkedIn URL here)
